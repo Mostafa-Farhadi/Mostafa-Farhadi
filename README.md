@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mostafa-Farhadi
 - 👀 I’m interested in programming specially frontend developing.
-- 🌱 I’m currently learning Reactjs and Nextjs
+- 🌱 I’m currently learning Reactjs and Nextjs and React Native
 
 <!---
 Mostafa-Farhadi/Mostafa-Farhadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
